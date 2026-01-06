@@ -1,47 +1,107 @@
+Here is your content **cleanly arranged, corrected, and GitHub-ready**, with proper formatting, sections, and screenshot placement. I’ve kept your original intent but made it **professional and readable**.
 
-# Chart Dashboard UI (Flutter)
+---
 
-This Flutter project demonstrates a modern, modular UI dashboard featuring various chart visualizations and a clean navigation structure. It's designed to showcase best practices in Flutter UI development, including component-based architecture and responsive design.
+# 📊 Chart Dashboard UI (Flutter)
 
-## Features
+A modern and modular **Flutter dashboard UI** showcasing multiple chart visualizations and a clean navigation structure. This project demonstrates best practices in Flutter UI development, including reusable widgets, component-based architecture, and responsive design.
 
-*   **Modular Architecture:** UI broken down into reusable widgets (`widgets/` directory).
-*   **Chart Visualizations:**
-    *   **Donut Chart:** Interactive or static representation of data distribution.
-    *   **Line Chart:** Displays trends over time with multiple data series.
-    *   **Bar Chart:** Categorical data comparison.
-*   **Theming:** Centralized theme management for consistent styling.
-*   **Tab Navigation:** Intuitive top navigation for different dashboard sections.
-*   **User Profile Section:** Placeholder for user information display.
+---
 
-## Project Structure
+## ✨ Features
 
-The project follows a clean and organized directory structure:
+* **Modular Architecture**
+  UI components are broken into reusable widgets inside the `widgets/` directory.
 
-## Getting Started
+* **Chart Visualizations**
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [repository-url]
-    cd chart_dashboard_ui
-    ```
-2.  **Get dependencies:**
-    ```bash<img width="356" height="725" alt="Screenshot 2026-01-06 231244" src="https://github.com/user-attachments/assets/94001983-0caa-4bec-b299-41a3840d8694" />
-<img width="356" height="729" alt="Screenshot 2026-01-06 231234" src="https://github.com/user-attachments/assets/3d380a46-fa58-432b-9760-14d870696013" />
-<img width="356" height="725" alt="Screenshot 2026-01-06 231244" src="https://github.com/user-attachments/assets/d94c1982-ad81-4b53-a303-694ad44657a9" />
+  * **Donut Chart** – Visualizes data distribution
+  * **Line Chart** – Shows trends over time with multiple data series
+  * **Bar Chart** – Compares categorical data effectively
 
-    flutter pub get
-    ```
-3.  **Run the app:**
-    ```bash
-    flutter run
-    ```
+* **Centralized Theming**
+  Consistent styling using a shared theme configuration.
 
-## Dependencies
+* **Tab Navigation**
+  Clean and intuitive top navigation between dashboard sections.
 
-*   `flutter`: The core Flutter SDK.
-*   (Potentially chart libraries like `fl_chart`, `syncfusion_flutter_charts`, etc., would be listed in `pubspec.yaml` and mentioned here if they were explicit dependencies).
+* **User Profile Section**
+  Placeholder UI for displaying user information.
 
-## Contribution
+---
 
-Feel free to fork the repository, open issues, or submit pull requests.
+## 🖼️ Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d380a46-fa58-432b-9760-14d870696013" width="260" />
+  <img src="https://github.com/user-attachments/assets/94001983-0caa-4bec-b299-41a3840d8694" width="260" />
+  <img src="https://github.com/user-attachments/assets/d94c1982-ad81-4b53-a303-694ad44657a9" width="260" />
+</p>
+
+---
+
+## 📁 Project Structure
+
+```
+lib/
+├── main.dart              # App entry point
+├── home_screen.dart       # Main dashboard screen
+├── widgets/               # Reusable UI components
+│   ├── header.dart
+│   ├── top_bar.dart
+│   ├── donut_chart.dart
+│   ├── line_chart.dart
+│   ├── bar_chart.dart
+│   └── reminders_section.dart
+pubspec.yaml               # Dependencies and assets
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone <repository-url>
+cd chart_dashboard_ui
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### 3️⃣ Run the App
+
+```bash
+flutter run
+```
+
+> Supports **Android, iOS, Web, Windows, macOS, and Linux** (depending on Flutter setup).
+
+---
+
+## 📦 Dependencies
+
+* **Flutter SDK**
+* `google_fonts` – Custom typography
+* `fl_chart` – Chart visualizations
+  *(See `pubspec.yaml` for full list)*
+
+---
+
+## 🤝 Contribution
+
+Contributions are welcome!
+Feel free to **fork the repo**, open an **issue**, or submit a **pull request** for improvements, bug fixes, or UI enhancements.
+
+---
+
+## 📜 License
+
+Add a license file (e.g., **MIT License**) if you plan to share or reuse this project publicly.
+
+---
+
