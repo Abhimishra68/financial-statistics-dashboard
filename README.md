@@ -1,6 +1,3 @@
-Here is your content **cleanly arranged, corrected, and GitHub-ready**, with proper formatting, sections, and screenshot placement. I’ve kept your original intent but made it **professional and readable**.
-
----
 
 # 📊 Chart Dashboard UI (Flutter)
 
