@@ -1,3 +1,4 @@
+<img width="356" height="725" alt="Screenshot 2026-01-06 231244" src="https://github.com/user-attachments/assets/d94c1982-ad81-4b53-a303-694ad44657a9" />
 # Chart Dashboard UI (Flutter)
 
 This Flutter project demonstrates a modern, modular UI dashboard featuring various chart visualizations and a clean navigation structure. It's designed to showcase best practices in Flutter UI development, including component-based architecture and responsive design.
