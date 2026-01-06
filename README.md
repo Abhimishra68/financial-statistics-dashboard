@@ -1,4 +1,4 @@
-<img width="356" height="725" alt="Screenshot 2026-01-06 231244" src="https://github.com/user-attachments/assets/d94c1982-ad81-4b53-a303-694ad44657a9" />
+
 # Chart Dashboard UI (Flutter)
 
 This Flutter project demonstrates a modern, modular UI dashboard featuring various chart visualizations and a clean navigation structure. It's designed to showcase best practices in Flutter UI development, including component-based architecture and responsive design.
@@ -28,6 +28,7 @@ The project follows a clean and organized directory structure:
 2.  **Get dependencies:**
     ```bash<img width="356" height="725" alt="Screenshot 2026-01-06 231244" src="https://github.com/user-attachments/assets/94001983-0caa-4bec-b299-41a3840d8694" />
 <img width="356" height="729" alt="Screenshot 2026-01-06 231234" src="https://github.com/user-attachments/assets/3d380a46-fa58-432b-9760-14d870696013" />
+<img width="356" height="725" alt="Screenshot 2026-01-06 231244" src="https://github.com/user-attachments/assets/d94c1982-ad81-4b53-a303-694ad44657a9" />
 
     flutter pub get
     ```
